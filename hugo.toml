@@ -8,6 +8,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
+This is a text.
+
 [module]
   [module.hugoVersion]
     extended = true
