@@ -1,7 +1,7 @@
 ---
 title: 'About'
 url: "/about/"
-image: 
+image: images/me.jpg
 ---
 
 ## Contra vagos
