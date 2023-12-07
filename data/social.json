@@ -1,0 +1,14 @@
+{
+    "links": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/athemtikna",
+        "image": "images/social/twitter.svg"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ankitmehta-1/",
+        "image": "images/social/linkedin.svg"
+      }
+    ]
+  }
