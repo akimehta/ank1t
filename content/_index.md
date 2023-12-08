@@ -1,6 +1,6 @@
 ---
-title: Sometimes you win, sometimes you learn
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Hi, I'm Ankit 👋
+description: 
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+A diligent and experienced technology leader with a successful history in building innovative software solutions and improving business operational planning and implementation. A certified Senior Business Analyst with solid business partnering and IT strategic planning experience in large and complex global organisations. Easily adaptable to new environments and learn new techniques and tools, with strong communication skills. Equally capable of leading people and collaborating effectively with cross-functional project teams or working independently to enhance performance and increase profitability. A passionate teacher with expertise in mentoring and coaching all levels of IT professionals.
