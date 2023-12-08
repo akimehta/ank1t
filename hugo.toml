@@ -25,12 +25,12 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#2af5ff'
+  highlightColor = '#7b16ff'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#2af5ff"
+  dotColor = "#7b16ff"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
