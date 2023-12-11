@@ -1,7 +1,7 @@
 ---
 title: Interface Design for Humans
 date: 2023-07-13
-description: " believe an interface should be used as a key to ‘feel’ the system rather than merely a way to work with it. Over the years, many tech giants have spent billions of dollars on hiring psychologists, scientists and techies to build the best user experience (UX) for their customers. Just in case you are wondering, this is NOT a script for Apple’s next iPhone release. I am not that lucky — yet."
+description: "I believe an interface should be used as a key to ‘feel’ the system rather than merely a way to work with it. Over the years, many tech giants have spent billions of dollars on hiring psychologists, scientists and techies to build the best user experience (UX) for their customers. Just in case you are wondering, this is NOT a script for Apple’s next iPhone release. I am not that lucky — yet."
 image: images/design-for-humans.jpg
 imageAltAttribute: mobile app
 tags:
