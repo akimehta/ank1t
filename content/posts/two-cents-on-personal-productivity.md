@@ -6,9 +6,7 @@ image: images/two-cents-productivity.jpg
 imageAltAttribute: notes
 tags:
    - productivity
-   - self-improvement 
-   - growth
-   - motivation
+   - self-improvement
    - time management
 ---
 

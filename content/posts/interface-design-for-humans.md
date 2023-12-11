@@ -8,8 +8,6 @@ tags:
    - user experience
    - software development 
    - design thinking
-   - user interface
-   - application
 ---
 In my career as an IT professional, I have observed that many people and companies struggle with designing interfaces, cracking the user experience, and building mock-ups. There is often a dilemma between making something complex and making something beautiful. Yes, I said ‘beautiful’ and not ‘simple’. Something complex in the back-end doesn’t mean it has to be confusing in the front-end.
 

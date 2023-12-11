@@ -6,9 +6,7 @@ image: images/colors-user-experience.jpg
 imageAltAttribute: colorful dialogue
 tags:
    - user experience
-   - software development 
    - design thinking
-   - user interface
 ---
 Did you know that colors play a vital role in the way a living being perceives information? Colors are not just a topic in fine-arts but they are a science in itself. Don’t worry, I am not going to get into the physics of a prism converting the white light into a rainbow. But if you are interested in it, please read [dispersion of light by prisms](https://www.physicsclassroom.com/class/refrn/Lesson-4/Dispersion-of-Light-by-Prisms) in your spare time. It is really interesting.
 
@@ -19,8 +17,6 @@ A specific color in one culture can mean something completely different in anoth
 I know, I know, you might be thinking why is this guy so obsessed with colors? It is because the colors you choose in your user interface designs raise different emotions and feelings in the audience. In fact — and I apologize once again for referring to the color red — it is found that red [raises blood pressure](https://csef.usc.edu/History/2003/Projects/S0317.pdf) and respiration rate and also increases human metabolism.
 
 One tool that I have been constantly using to decide colors and shades for all my projects is [Coolors](https://coolors.co).
-
-![Coolors Webpage](/static/images/coolors-webpage.jpg)
 
 This is a free and intuitive tool to generate color combinations. You can lock some colors and move them around to see how they match with other colors in the palette. There are many contributors to this tool who have already generated some cool color combinations. You can simply use them if you’d like to save time.
 

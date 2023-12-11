@@ -8,7 +8,6 @@ tags:
    - productivity
    - self-improvement 
    - time management
-   - application
 ---
 Hey there, productivity enthusiasts and list-making champions! Are you all too familiar with the excitement of creating a dazzling to-do list, diligently ticking off items for the first few days, but then somehow getting lost in the sea of tasks, feeling overwhelmed or losing track of your goals? Have you ever felt tempted to blame your to-do list application and jumped ship to a different one, hoping it would better support you in conquering your daily goals? If you’ve experienced that all-too-relatable scenario, rest assured, you’re not alone — welcome aboard my “been there, done that” boat! Chances are that your work style is not aligned with your to-do list management style. But fear not, because, we’re going to navigate through the choppy waters of to-do list management and discover strategies that will keep you sailing smoothly towards accomplishing your tasks and goals with ease.
 
